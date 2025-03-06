@@ -15,7 +15,7 @@ cat /etc/passwd | grep -v -A 1 bash
 -   Bod **b)** bude procházet vytvořenou adresářovou strukturu. Nebude tedy přejímat názvy adresářů z první části.
 
 Stažení souboru a vypsání na standardní výstup:
-wget -4 -O - http://seidl.cs.vsb.cz/download/seznam-obci-cr.txt 2> /dev/null
+`wget -4 -O - http://seidl.cs.vsb.cz/download/seznam-obci-cr.txt 2> /dev/null`
 
 ### Zadání:
 
