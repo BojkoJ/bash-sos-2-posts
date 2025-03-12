@@ -3,7 +3,7 @@
 -   Soubor skriptu bude začínat řádkem:
     `#!/bin/bash`
 
--   Pokud bude použitý příkaz používat parametry, popište v komentáři význam parametrů.
+-   Pokud bude použitý příkaz používat parametry, v komentáři bude popsán význam parametrů.
     Příklad:
 
 ```
